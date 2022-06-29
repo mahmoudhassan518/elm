@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="loadingProgress" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+
+    <style name="StyleProgressButtonView">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:background">@drawable/bg_white_stroke_corners_5_dp</item>
+        <item name="android:backgroundTint">@android:color/white</item>
+    </style>
+
+    <style name="StyleProgressButtonViewTextView" >
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:layout_marginStart">20dp</item>
+        <item name="android:layout_marginEnd">20dp</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="StyleProgressButtonProgress">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">20dp</item>
+        <item name="android:indeterminateTint">@color/colorPrimary</item>
+        <item name="android:elevation">4dp</item>
+        <item name="android:visibility">gone</item>
+    </style>
+
+
+
+    <style name="StylePageTitle">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:lineSpacingExtra">6dp</item>
+    </style>
+
+    <style name="StylePageSubTitle">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:lineSpacingExtra">1dp</item>
+
+    </style>
+
+
+    <style name="PrimaryButton">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:background">@drawable/bg_enabled_button</item>
+    </style>
+
+
+    <style name="SecondaryButton">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">16sp</item>
+        <item name="backgroundColor">@android:color/transparent</item>
+    </style>
+
+
+    <style name="StyleSignInWithEmailEditText" >
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">42dp</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:layout_marginStart">15dp</item>
+        <item name="android:layout_marginEnd">15dp</item>
+        <item name="android:background">@drawable/bg_white_stroke_corners_5_dp</item>
+        <item name="android:paddingStart">14dp</item>
+        <item name="android:paddingEnd">14dp</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/colorBlack333</item>
+        <item name="android:textColorHint">@color/colorPinkishGrey</item>
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+
+
+
+</resources>

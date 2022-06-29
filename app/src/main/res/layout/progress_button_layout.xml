@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <View
+        android:id="@+id/btn_progress"
+        style="@style/StyleProgressButtonView"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tv_progress"
+        style="@style/StyleProgressButtonViewTextView"
+        app:layout_constraintBottom_toBottomOf="@id/btn_progress"
+        app:layout_constraintEnd_toEndOf="@id/btn_progress"
+        app:layout_constraintStart_toStartOf="@id/btn_progress"
+        app:layout_constraintTop_toTopOf="@id/btn_progress" />
+
+
+    <ProgressBar
+        android:id="@+id/progress"
+        style="@style/StyleProgressButtonProgress"
+        app:layout_constraintBottom_toBottomOf="@id/btn_progress"
+        app:layout_constraintEnd_toEndOf="@id/btn_progress"
+        app:layout_constraintStart_toStartOf="@id/btn_progress"
+        app:layout_constraintTop_toTopOf="@id/btn_progress" />
+
+</merge>

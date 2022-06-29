@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Elm</string>
+
+    <string name="label_done">Done</string>
+    <string name="label_error">Error</string>
+
+    <string name="msg_something_went_wrong">Something went wrong. Please try again later.</string>
+
+    <string name="label_retry">retry</string>
+    <string name="label_search">Search</string>
+
+    <string name="msg_failed_to_load_user_incidents">Failed to get user incidents!\n tap to retry</string>
+
+
+    <string name="error">Error!</string>
+    <string name="msgSomethingWentWrong">Something went wrong. Please try again later.</string>
+    <string name="emptyFields">Some fields are empty!</string>
+    <string name="invalidEmailAddress">Invalid email address</string>
+    <string name="label_email_hint">Email</string>
+    <string name="title_sign_in">Sign In</string>
+    <string name="label_sign_in">Sign In</string>
+    <string name="title_validate_otp">Validate OTP</string>
+    <string name="label_otp_hint">OTP</string>
+    <string name="label_continue">Continue</string>
+    <string name="invalidOTP">OTP must be 4 degits only</string>
+    <string name="label_id">ID</string>
+    <string name="label_lat">Latitude</string>
+    <string name="label_lon">Longitude</string>
+    <string name="label_description">Description</string>
+    <string name="label_filter_by_date">Start date</string>
+    <string name="label_filter_by_status">Status</string>
+    <string name="label_status">Status</string>
+    <string name="label_filter_by">Filter By</string>
+    <string name="label_submitted">Submitted</string>
+    <string name="label_completed">Completed</string>
+    <string name="label_inProgress">In Progress</string>
+    <string name="label_rejected">Rejected</string>
+    <string name="msg_empty_incident_list">No Incidents was found!</string>
+    <string name="msg_empty_list">Empty List</string>
+    <string name="incidents">Incidents</string>
+    <string name="label_submit_new_incident">Submit Incident</string>
+    <string name="label_submit">Submit</string>
+    <string name="title_submit_incident">Submit Incident</string>
+    <string name="msg_incident_submitted_successfully">an incident submitted successfully</string>
+
+
+</resources>

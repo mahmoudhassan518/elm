@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mahha/AndroidStudioProjects/Elm/app/src/main/res/drawable/bg_disabled_button.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/mahha/AndroidStudioProjects/Elm/app/src/main/res/drawable/bg_enabled_button.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/mahha/AndroidStudioProjects/Elm/app/src/main/res/drawable/bg_light_grey_stroke_corners_5_dp.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/mahha/AndroidStudioProjects/Elm/app/src/main/res/drawable/bg_whitey_stroke_corners_5_dp.xml" value="0.25925925925925924" />
+        <entry key="..\:/Users/mahha/AndroidStudioProjects/Elm/app/src/main/res/drawable/dashed_border.xml" value="0.1685185185185185" />
+        <entry key="..\:/Users/mahha/AndroidStudioProjects/Elm/app/src/main/res/drawable/ic_back.xml" value="0.25925925925925924" />
+        <entry key="..\:/Users/mahha/AndroidStudioProjects/Elm/app/src/main/res/drawable/ic_baseline_hourglass_empty_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/mahha/AndroidStudioProjects/Elm/app/src/main/res/drawable/ic_black.xml" value="0.25925925925925924" />
+        <entry key="..\:/Users/mahha/AndroidStudioProjects/Elm/app/src/main/res/drawable/ic_check.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/mahha/AndroidStudioProjects/Elm/app/src/main/res/drawable/ic_empty_24.xml" value="0.25925925925925924" />
+        <entry key="..\:/Users/mahha/AndroidStudioProjects/Elm/app/src/main/res/layout/activity_home.xml" value="0.5051903114186851" />
+        <entry key="..\:/Users/mahha/AndroidStudioProjects/Elm/app/src/main/res/layout/activity_incident_list.xml" value="0.33915211970074816" />
+        <entry key="..\:/Users/mahha/AndroidStudioProjects/Elm/app/src/main/res/layout/activity_submit_incident.xml" value="0.25" />
+        <entry key="..\:/Users/mahha/AndroidStudioProjects/Elm/app/src/main/res/layout/activity_user_management.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/mahha/AndroidStudioProjects/Elm/app/src/main/res/layout/fragment_sign_in.xml" value="0.264" />
+        <entry key="..\:/Users/mahha/AndroidStudioProjects/Elm/app/src/main/res/layout/fragment_validate_otp.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/mahha/AndroidStudioProjects/Elm/app/src/main/res/layout/fragmentotp_validation.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/mahha/AndroidStudioProjects/Elm/app/src/main/res/layout/layout_back_bar.xml" value="0.264" />
+        <entry key="..\:/Users/mahha/AndroidStudioProjects/Elm/app/src/main/res/layout/layout_incident_status_view.xml" value="0.25" />
+        <entry key="..\:/Users/mahha/AndroidStudioProjects/Elm/app/src/main/res/layout/layout_incidents_item.xml" value="0.25" />
+        <entry key="..\:/Users/mahha/AndroidStudioProjects/Elm/app/src/main/res/layout/layout_incidents_view.xml" value="0.25" />
+        <entry key="..\:/Users/mahha/AndroidStudioProjects/Elm/app/src/main/res/layout/layout_state_view.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/mahha/AndroidStudioProjects/Elm/app/src/main/res/layout/progress_button_layout.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/mahha/AndroidStudioProjects/Elm/app/src/main/res/layout/view_status.xml" value="0.12239583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

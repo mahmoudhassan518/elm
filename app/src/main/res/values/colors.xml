@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/colorPeaRed</color>
+    <color name="colorPrimaryWithAlpha">@color/colorPeaRedWithAlpha</color>
+    <color name="colorPrimaryDark">@color/colorPeaRed</color>
+    <color name="colorAccent">@color/colorPeaRed</color>
+
+    <color name="colorPeaRed">#FF9A86</color>
+    <color name="colorPeaRedWithAlpha">#A3FF9A86</color>
+
+
+    <color name="colorTransparent">#00000000</color>
+
+
+
+    <color name="colorError">#cc0000</color>
+    <color name="colorSuccess">#4BB543</color>
+
+    <color name="colorBlueGrey">#8399af</color>
+    <color name="colorLightPaleGrey">#dde3ee</color>
+    <color name="colorLightGrey">#eee</color>
+    <color name="colorPinkishGrey">#bdbdbd</color>
+
+    <color name="colorBlack333">#333333</color>
+
+    <color name="colorUserManagementBackground">#DEE0EC</color>
+
+    <color name="colorInActive">#dde3ee</color>
+
+</resources>

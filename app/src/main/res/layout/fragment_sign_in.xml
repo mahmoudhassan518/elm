@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent">
+
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/edt_email"
+        style="@style/StyleSignInWithEmailEditText"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginBottom="15dp"
+        android:hint="@string/label_email_hint"
+        android:inputType="textEmailAddress"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <com.mahmoud.elm.core.extentions.ProgressButton
+        android:id="@+id/btn_progress"
+        android:layout_width="91.5dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="15dp"
+        app:layout_constraintEnd_toEndOf="@id/edt_email"
+        app:layout_constraintTop_toBottomOf="@id/edt_email"
+        app:text="@string/label_sign_in" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

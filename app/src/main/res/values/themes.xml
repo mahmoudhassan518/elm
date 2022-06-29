@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Elm" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!-- Status bar color. -->
+        <item name="android:textCursorDrawable">@drawable/cursor_color</item>
+        <item name="android:textColorHighlight">@color/colorPrimary</item>
+    </style>
+
+    <style name="Theme.Elm.NoActionBar" parent="Theme.Elm">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+
+</resources>
